@@ -1,0 +1,8 @@
+*.wpr
+*.wpu
+
+.DS_Store
+__MACOSX
+
+.venv/
+.idea/
